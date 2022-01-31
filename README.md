@@ -1,4 +1,4 @@
-# Client-Side Rouing with React Router
+# Communicating with an HTTP API
 
 We'll use this code as a starting point for exploring HTTP communication from a React app.  The first time you run this app, make sure to run `npm install` first, to install needed dependencies.  Then, to run the app and see it in your browser, you can run
 ```
